@@ -8,4 +8,5 @@ import com.bezkoder.spring.hibernate.onetomany.model.Comment;
 @Repository
 public interface CommentRepository extends JpaRepository<Comment, Long> {
 
+
 }
